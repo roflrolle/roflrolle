@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @roflrolle
+- 👀 I’m interested in Powershell, Azure, AWS, Public Cloud, Scripting, Automation
+- 🌱 I’m currently learning AWS, Azure
